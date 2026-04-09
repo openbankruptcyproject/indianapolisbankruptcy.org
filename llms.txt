@@ -1,0 +1,24 @@
+# Indianapolis Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+> Free Indianapolis bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
+
+## About
+indianapolisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Indianapolis Bankruptcy -- Chapter 7 & 13 Filing Guide: https://indianapolisbankruptcy.org/
+- Chapter 7 Bankruptcy in Indianapolis -- Eligibility, Exemptions, Timeline: https://indianapolisbankruptcy.org/chapter-7.html
+- Chapter 13 Bankruptcy in Indianapolis -- Payment Plans, Dismissal Rates, Timeline: https://indianapolisbankruptcy.org/chapter-13.html
+- Indiana Bankruptcy Exemptions -- What You Can Keep -- Indianapolis: https://indianapolisbankruptcy.org/exemptions.html
+- How Much Does Bankruptcy Cost in Indianapolis? -- Filing Fees, Attorney Fees: https://indianapolisbankruptcy.org/cost.html
+- What to Expect When Filing Bankruptcy -- Timeline, 341 Meeting, Discharge -- Indianapolis: https://indianapolisbankruptcy.org/what-to-expect.html
+- Indianapolis Bankruptcy FAQ -- 15 Common Questions Answered: https://indianapolisbankruptcy.org/faq.html
+- Indianapolis Bankruptcy Statistics -- 91,333 Cases Analyzed: https://indianapolisbankruptcy.org/statistics.html
+- Indianapolis Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://indianapolisbankruptcy.org/resources.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
