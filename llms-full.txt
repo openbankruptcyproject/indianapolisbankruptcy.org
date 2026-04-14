@@ -6,458 +6,17 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Indianapolis Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
-Source: https://indianapolisbankruptcy.org/
-
-Indianapolis Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostFAQOBP
-
-Indianapolis Bankruptcy -- Your Complete Filing Guide for 2026
-
-You are not alone. Over 91,333 Indianapolis area residents have filed for bankruptcy since 2008. This free guide will help you understand your options, know what to expect, and make informed decisions.
-
-Read the FAQ
-Check Your Eligibility
-
-91,333
-
-S.D. Ind. Cases (2008-2024)
-
-42.7%
-
-Dismissal Rate
-
-57.3%
-
-Discharge Rate
-
-$338
-
-Chapter 7 Filing Fee
-
-Chapter 7 vs. Chapter 13: Which Is Right for You?
-
-Chapter 7 -- Fresh Start
-
-Chapter 7 eliminates most unsecured debts (credit cards, medical bills, personal loans) in about 3-4 months. You must pass a means test based on your income.
-
-Discharge in 3-4 months
-
-Eliminates credit cards, medical debt
-
-Must pass the means test
-
-May lose non-exempt property
-
-Filing fee: $338
-
-Learn more about Chapter 7 →
-
-Chapter 13 -- Payment Plan
-
-Chapter 13 lets you keep your property while repaying debts over 3-5 years. Good for saving a home from foreclosure or a car from repossession. No means test required.
-
-3-5 year repayment plan
-
-Keep your home and car
-
-Catch up on missed payments
-
-No means test requirement
-
-Filing fee: $313
-
-Learn more about Chapter 13 →
-
-Not sure which chapter fits? Compare them in detail.
-
-Southern District of Indiana at a Glance
-
-Understanding local court data can help you make more informed decisions about filing bankruptcy in Indianapolis.
-
-S.D. Ind. Dismissal Rate
-
-42.7% dismissed
-
-Out of 91,333 Chapter 13 cases filed between 2008 and 2024, 42.7% were dismissed before plan completion. Only 57.3% achieved a successful discharge.
-
-Courthouse: 46 E Ohio St, Indianapolis, IN 46204
-
-Key Metrics
-
-29.8%
-
-Prior filer rate -- 29.8% of filers had a previous bankruptcy case. Pro se rate: 2.3%. Estimated 1328(f) violations: 4,248.
-
-View full statistics →
-
-What to Expect When Filing
-
-The Process at a Glance
-
-Credit counseling -- You must complete a credit counseling course within 180 days before filing. Cost: about $15-25.
-
-File your petition -- Your attorney files the petition, schedules, and statements with the court. The automatic stay takes effect immediately, stopping collections, garnishments, and foreclosures.
-
-341 meeting -- About 30 days after filing, you attend a brief meeting of creditors. The trustee asks questions under oath. Most last 5-10 minutes.
-
-Debtor education course -- You must complete a second financial education course before discharge. Cost: about $10-25.
-
-Discharge -- Chapter 7: about 60 days after the 341 meeting. Chapter 13: after completing your 3-5 year plan.
-
-Detailed timeline and what to expect →
-
-How Much Does Bankruptcy Cost?
-
-The total cost depends on the chapter you file and your specific situation:
-
-Chapter 7 filing fee: $338 (can request installment payments)
-
-Chapter 13 filing fee: $313 (can be paid through your plan)
-
-Attorney fees: Typically $800 - $1,800 for Chapter 7; $2,500 - $4,000 for Chapter 13 in Indianapolis
-
-Credit counseling: $15-25 per course (two required)
-
-Fee waivers are available for Chapter 7 filers whose income is below 150% of the federal poverty guidelines.
-
-Full cost breakdown → | National cost guide
-
-Frequently Asked Questions
-
-How much does bankruptcy cost in Indianapolis?
-
-Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Indianapolis typically range from $800 - $1,800 for Chapter 7 and $2,500 - $4,000 for Chapter 13. Full cost breakdown.
-
-Will I lose my house if I file bankruptcy in Indiana?
-
-Indiana's homestead exemption protects up to $22,750 of equity in your home. In Chapter 13, you can keep your home while catching up on missed payments. See all exemptions.
-
-Can I keep my car if I file bankruptcy?
-
-Indiana allows a vehicle exemption of $10,250. If your car equity is below that amount, you can keep it in Chapter 7. In Chapter 13, you can keep your car and catch up on payments. Learn about exemptions.
-
-How long does bankruptcy take?
-
-Chapter 7 typically takes 3-4 months from filing to discharge. Chapter 13 requires completing a 3-5 year repayment plan. The 341 meeting of creditors usually happens about 30 days after filing. Full timeline.
-
-Should I file Chapter 7 or Chapter 13?
-
-Chapter 7 eliminates most unsecured debt quickly but requires passing a means test. Chapter 13 allows you to keep property while repaying debts over 3-5 years. Compare chapters.
-
-See all frequently asked questions →
-
-Check Your Eligibility
-
-Use the free 1328(f) screener to check whether a prior discharge affects your eligibility.
-
-Free Discharge Screener
-
-Open Bankruptcy Project Network
-
-OBP Home
-1328(f) Screener
-Ch. 7 vs 13
-Automatic Stay
-341 Meeting
-Means Test
-Cost Guide
-Dismissed?
-File Again?
-How to File
-
-Your Next Questions
-
-Real users ask these next -- we built the answers.
-
-Chapter 7 vs Chapter 13
-
-Compare chapters before you choose
-
-chapter7vs13.org →
-
-How Much Does It Cost?
-
-Attorney fees and filing costs by chapter
-
-howmuchdoesbankruptcycost.com →
-
-Exemptions by State
-
-Your state exemptions for vehicles, homes, and more
-
-bankruptcyexemptionsbystate.com →
-
-What Is a Bankruptcy Mill?
-
-Avoid high-volume firms with poor outcomes
-
-bankruptcymill.org →
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-An Open Bankruptcy Project resource
-
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-© 2026 Open Bankruptcy Project. GitHub
-
-Have a Question?
-
-Open Bankruptcy Project provides free educational information. We are not a law firm.
-Nothing on this site constitutes legal advice. For advice about your specific situation,
-consult a licensed attorney.
-
-Select your state...
-Alabama
-Alaska
-Arizona
-Arkansas
-California
-Colorado
-Connecticut
-Delaware
-District of Columbia
-Florida
-Georgia
-Hawaii
-Idaho
-Illinois
-Indiana
-Iowa
-Kansas
-Kentucky
-Louisiana
-Maine
-Maryland
-Massachusetts
-Michigan
-Minnesota
-Mississippi
-Missouri
-Montana
-Nebraska
-Nevada
-New Hampshire
-New Jersey
-New Mexico
-New York
-North Carolina
-North Dakota
-Ohio
-Oklahoma
-Oregon
-Pennsylvania
-Rhode Island
-South Carolina
-South Dakota
-Tennessee
-Texas
-Utah
-Vermont
-Virginia
-Washington
-West Virginia
-Wisconsin
-Wyoming
-American Samoa
-Guam
-Northern Mariana Islands
-Puerto Rico
-U.S. Virgin Islands
-
-I understand this is educational information, not legal advice.
-
-Submit Question
-
-Thank you! We typically respond within one business day.
-
-Need Free Bankruptcy Help?
-
-If you cannot afford a bankruptcy attorney, free help is available. Legal aid organizations, law school clinics, and court self-help programs can assist you at no cost.
-
-Find Free Help in Indiana
-
-You May Also Find Helpful
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
----
-
-## Chapter 7 Bankruptcy in Indianapolis -- Eligibility, Exemptions, Timeline
-Source: https://indianapolisbankruptcy.org/chapter-7.html
-
-Indianapolis Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostFAQOBP
-
-Chapter 7 Bankruptcy in Indianapolis
-
-Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what Indianapolis residents need to know.
-
-What Is Chapter 7?
-
-Chapter 7, sometimes called "liquidation bankruptcy" or a "fresh start," eliminates most unsecured debts. A court-appointed trustee reviews your assets. If you have non-exempt property, the trustee may sell it to pay creditors -- but most Chapter 7 cases are "no-asset" cases where the filer keeps everything.
-
-In Indianapolis, the vast majority of Chapter 7 filers keep all their property because it falls within Indiana exemption limits.
-
-What Debts Does Chapter 7 Eliminate?
-
-Dischargeable (eliminated)
-
-Credit card debt
-
-Medical bills
-
-Personal loans and payday loans
-
-Old utility bills
-
-Deficiency balances from repossessions
-
-Some older tax debts
-
-Civil judgments (in most cases)
-
-Not dischargeable
-
-Student loans (except in rare hardship cases)
-
-Recent income taxes (generally last 3 years)
-
-Child support and alimony
-
-Court-ordered restitution and fines
-
-Debts from fraud or willful injury
-
-Certain debts under 11 U.S.C. section 523(a)
-
-The Means Test
-
-To file Chapter 7, you must pass the means test. This compares your household income to the state median:
-
-Below median income: You automatically qualify for Chapter 7
-
-Above median income: A detailed calculation of your disposable income determines eligibility
-
-The median income figures are updated periodically. For a single filer in Indiana, the current median is approximately $55,000/year. These figures increase with household size.
-
-Indiana Exemptions in Chapter 7
-
-Exemptions determine what property you keep. Indiana requires you to use state exemptions -- you cannot choose the federal exemption system.
-
-PropertyIndiana Exemption
-
-Homestead$22,750 equity
-
-Vehicle$10,250
-
-Household goods$10,250 aggregate
-
-Tools of trade$10,250
-
-Retirement (IRA/401k)Fully exempt
-
-Public benefitsFully exempt
-
-Full exemption details →
-
-Chapter 7 Timeline
-
-Weeks 1-2: Preparation -- Gather documents (tax returns, pay stubs, bank statements). Complete credit counseling course ($15-25).
-
-Day 1: Filing -- Petition filed with the court. Automatic stay takes effect immediately -- creditors must stop all collection activity.
-
-Day 30-45: 341 Meeting -- Brief meeting of creditors. The trustee asks questions under oath. Most last 5-10 minutes.
-
-Day 30-60: Debtor education -- Complete the second required financial education course ($10-25).
-
-Day 90-120: Discharge -- The court enters your discharge order, eliminating eligible debts.
-
-Frequently Asked Questions
-
-What debts does Chapter 7 eliminate?
-
-Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, or debts from fraud. See section 523(a) for the full list.
-
-What is the means test for Chapter 7?
-
-The means test compares your household income to the Indiana median. If below, you qualify automatically. If above, a detailed calculation determines eligibility.
-
-How long does Chapter 7 take in Indianapolis?
-
-From filing to discharge, Chapter 7 typically takes 3-4 months. The 341 meeting occurs about 30 days after filing, and the discharge is usually entered about 60 days after that.
-
-What property can I keep in Chapter 7 in Indiana?
-
-Indiana exemptions protect homestead equity up to $22,750, one vehicle up to $10,250, household goods, tools of trade, and retirement accounts. Full exemption details.
-
-Check Your Eligibility
-
-Use the free 1328(f) screener to check whether a prior discharge affects your eligibility.
-
-Free Discharge Screener
-
-Open Bankruptcy Project Network
-
-OBP Home
-1328(f) Screener
-Ch. 7 vs 13
-Automatic Stay
-341 Meeting
-Means Test
-Cost Guide
-Dismissed?
-File Again?
-How to File
-
-Related Indianapolis Bankruptcy Resources
-
-Indianapolis Bankruptcy Guide
-
-Chapter 7 in Indianapolis
-
-Chapter 13 in Indianapolis
-
-Indianapolis Exemptions
-
-Bankruptcy Cost in Indianapolis
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-An Open Bankruptcy Project resource
-
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-© 2026 Open Bankruptcy Project. GitHub
-
-You May Also Find Helpful
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
----
-
-## Chapter 13 Bankruptcy in Indianapolis -- Payment Plans, Dismissal Rates, Timeline
+## Chapter 13 Bankruptcy in Indianapolis - Payment Plans, Dismissal Rates, Timeline
 Source: https://indianapolisbankruptcy.org/chapter-13.html
 
 Indianapolis Bankruptcy Guide
 HomeChapter 7Chapter 13ExemptionsCostFAQOBP
 
+Home›Chapter 13
+
 Chapter 13 Bankruptcy in Indianapolis
 
-Chapter 13 lets you keep your property while repaying debts over 3-5 years. But in the Southern District of Indiana, the dismissal rate is significant -- meaning many filers never complete their plan.
+Chapter 13 lets you keep your property while repaying debts over 3-5 years. But in the Southern District of Indiana, the dismissal rate is significant - meaning many filers never complete their plan.
 
 42.7% of S.D. Ind. Chapter 13 cases are dismissed
 
@@ -497,7 +56,7 @@ Filers who do not qualify for Chapter 7 under the means test
 
 S.D. Ind. Dismissal Data
 
-A dismissed Chapter 13 means the debtor spent months or years making payments but received no discharge -- no debt relief.
+A dismissed Chapter 13 means the debtor spent months or years making payments but received no discharge - no debt relief.
 
 Out of 91,333 Chapter 13 cases filed in the Southern District of Indiana between 2008 and 2024:
 
@@ -539,7 +98,7 @@ Chapter 13 Timeline
 
 Before filing: Complete credit counseling ($15-25). Gather income documentation, tax returns, and debt records.
 
-Day 1 -- Filing: Petition filed. Automatic stay takes effect. Foreclosures, repossessions, and garnishments stop immediately.
+Day 1 - Filing: Petition filed. Automatic stay takes effect. Foreclosures, repossessions, and garnishments stop immediately.
 
 Day 14: Proposed plan filed (if not filed with the petition).
 
@@ -622,31 +181,335 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Indiana Bankruptcy Exemptions -- What You Can Keep -- Indianapolis
+## Chapter 7 Bankruptcy in Indianapolis - Eligibility, Exemptions, Timeline
+Source: https://indianapolisbankruptcy.org/chapter-7.html
+
+Indianapolis Bankruptcy Guide
+HomeChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Chapter 7
+
+Chapter 7 Bankruptcy in Indianapolis
+
+Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what Indianapolis residents need to know.
+
+What Is Chapter 7?
+
+Chapter 7, sometimes called "liquidation bankruptcy" or a "fresh start," eliminates most unsecured debts. A court-appointed trustee reviews your assets. If you have non-exempt property, the trustee may sell it to pay creditors - but most Chapter 7 cases are "no-asset" cases where the filer keeps everything.
+
+In Indianapolis, the vast majority of Chapter 7 filers keep all their property because it falls within Indiana exemption limits.
+
+What Debts Does Chapter 7 Eliminate?
+
+Dischargeable (eliminated)
+
+Credit card debt
+
+Medical bills
+
+Personal loans and payday loans
+
+Old utility bills
+
+Deficiency balances from repossessions
+
+Some older tax debts
+
+Civil judgments (in most cases)
+
+Not dischargeable
+
+Student loans (except in rare hardship cases)
+
+Recent income taxes (generally last 3 years)
+
+Child support and alimony
+
+Court-ordered restitution and fines
+
+Debts from fraud or willful injury
+
+Certain debts under 11 U.S.C. section 523(a)
+
+The Means Test
+
+To file Chapter 7, you must pass the means test. This compares your household income to the state median:
+
+Below median income: You automatically qualify for Chapter 7
+
+Above median income: A detailed calculation of your disposable income determines eligibility
+
+The median income figures are updated periodically. For a single filer in Indiana, the current median is approximately $55,000/year. These figures increase with household size.
+
+Indiana Exemptions in Chapter 7
+
+Exemptions determine what property you keep. Indiana requires you to use state exemptions - you cannot choose the federal exemption system.
+
+PropertyIndiana Exemption
+
+Homestead$22,750 equity
+
+Vehicle$10,250
+
+Household goods$10,250 aggregate
+
+Tools of trade$10,250
+
+Retirement (IRA/401k)Fully exempt
+
+Public benefitsFully exempt
+
+Full exemption details →
+
+Chapter 7 Timeline
+
+Weeks 1-2: Preparation - Gather documents (tax returns, pay stubs, bank statements). Complete credit counseling course ($15-25).
+
+Day 1: Filing - Petition filed with the court. Automatic stay takes effect immediately - creditors must stop all collection activity.
+
+Day 30-45: 341 Meeting - Brief meeting of creditors. The trustee asks questions under oath. Most last 5-10 minutes.
+
+Day 30-60: Debtor education - Complete the second required financial education course ($10-25).
+
+Day 90-120: Discharge - The court enters your discharge order, eliminating eligible debts.
+
+Frequently Asked Questions
+
+What debts does Chapter 7 eliminate?
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, or debts from fraud. See section 523(a) for the full list.
+
+What is the means test for Chapter 7?
+
+The means test compares your household income to the Indiana median. If below, you qualify automatically. If above, a detailed calculation determines eligibility.
+
+How long does Chapter 7 take in Indianapolis?
+
+From filing to discharge, Chapter 7 typically takes 3-4 months. The 341 meeting occurs about 30 days after filing, and the discharge is usually entered about 60 days after that.
+
+What property can I keep in Chapter 7 in Indiana?
+
+Indiana exemptions protect homestead equity up to $22,750, one vehicle up to $10,250, household goods, tools of trade, and retirement accounts. Full exemption details.
+
+Check Your Eligibility
+
+Use the free 1328(f) screener to check whether a prior discharge affects your eligibility.
+
+Free Discharge Screener
+
+Open Bankruptcy Project Network
+
+OBP Home
+1328(f) Screener
+Ch. 7 vs 13
+Automatic Stay
+341 Meeting
+Means Test
+Cost Guide
+Dismissed?
+File Again?
+How to File
+
+Related Indianapolis Bankruptcy Resources
+
+Indianapolis Bankruptcy Guide
+
+Chapter 7 in Indianapolis
+
+Chapter 13 in Indianapolis
+
+Indianapolis Exemptions
+
+Bankruptcy Cost in Indianapolis
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+© 2026 Open Bankruptcy Project. GitHub
+
+You May Also Find Helpful
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+---
+
+## How Much Does Bankruptcy Cost in Indianapolis? - Filing Fees, Attorney Fees
+Source: https://indianapolisbankruptcy.org/cost.html
+
+Indianapolis Bankruptcy Guide
+HomeChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Cost
+
+How Much Does Bankruptcy Cost in Indianapolis?
+
+Bankruptcy has real costs, but they are often far less than the debt you are trying to eliminate. Here is a transparent breakdown of every cost you should expect.
+
+$338
+
+Chapter 7 Filing Fee
+
+$313
+
+Chapter 13 Filing Fee
+
+$25-50
+
+Credit Counseling (2 courses)
+
+$800-$4,000
+
+Typical Attorney Fees
+
+Chapter 7 Cost Breakdown
+
+Cost ItemAmountNotes
+
+Court filing fee$338Can pay in installments; fee waiver available
+
+Attorney fees$800 - $1,800Typical Indianapolis range; usually paid upfront
+
+Pre-filing credit counseling$15 - $25Required within 180 days before filing
+
+Post-filing debtor education$10 - $25Required before discharge
+
+Total estimate$1,200 - $2,200
+
+Fee Waiver (Chapter 7 Only)
+
+If your household income is below 150% of the federal poverty guidelines, you can apply to have the $338 filing fee waived entirely. You file the fee waiver application (Official Form 103B) with your petition.
+
+Chapter 13 Cost Breakdown
+
+Cost ItemAmountNotes
+
+Court filing fee$313Can be paid through your plan
+
+Attorney fees$2,500 - $4,000Typical Indianapolis range; mostly paid through plan
+
+Pre-filing credit counseling$15 - $25Required within 180 days before filing
+
+Post-filing debtor education$10 - $25Required before discharge
+
+Total estimate$2,900 - $4,400Most paid through plan, not upfront
+
+The Chapter 13 Payment Advantage
+
+A major advantage of Chapter 13 is that attorney fees and the filing fee can be included in your repayment plan. You typically need only a small upfront payment, with the rest paid through monthly plan payments over 3-5 years.
+
+Ways to Reduce Costs
+
+Free and Low-Cost Options
+
+Indiana Legal Services - provides free bankruptcy representation for qualifying low-income individuals
+
+Fee waiver - eliminates the $338 Chapter 7 filing fee for income below 150% of poverty
+
+Installment payments - pay the filing fee in up to 4 installments over 120 days
+
+Pro se filing - filing without an attorney is possible but not recommended (only 2.3% of S.D. Ind. filers do this)
+
+Reduced-fee credit counseling - many approved agencies offer reduced fees for low-income filers
+
+Frequently Asked Questions
+
+How much does Chapter 7 cost in Indianapolis?
+
+The filing fee is $338. Attorney fees typically range from $800 - $1,800. Credit counseling costs about $25-50 total. Total: typically $1,200 - $2,200. National cost comparison.
+
+How much does Chapter 13 cost in Indianapolis?
+
+The filing fee is $313 and attorney fees typically range from $2,500 - $4,000. Most costs can be paid through your repayment plan.
+
+Can I file bankruptcy for free?
+
+The filing fee can be waived in Chapter 7 if your income is below 150% of the federal poverty guidelines. Indiana Legal Services may provide free representation.
+
+Do I have to pay an attorney upfront?
+
+For Chapter 7, most attorneys require full payment before filing. For Chapter 13, fees are typically included in your repayment plan.
+
+Open Bankruptcy Project Network
+
+OBP Home
+1328(f) Screener
+Ch. 7 vs 13
+Automatic Stay
+341 Meeting
+Means Test
+Cost Guide
+Dismissed?
+File Again?
+How to File
+
+Related Indianapolis Bankruptcy Resources
+
+Indianapolis Bankruptcy Guide
+
+Chapter 7 in Indianapolis
+
+Chapter 13 in Indianapolis
+
+Indianapolis Exemptions
+
+Bankruptcy Cost in Indianapolis
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+© 2026 Open Bankruptcy Project. GitHub
+
+You May Also Find Helpful
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+---
+
+## Indiana Bankruptcy Exemptions - What You Can Keep - Indianapolis
 Source: https://indianapolisbankruptcy.org/exemptions.html
 
 Indianapolis Bankruptcy Guide
 HomeChapter 7Chapter 13ExemptionsCostFAQOBP
 
+Home›Exemptions
+
 Indiana Bankruptcy Exemptions
 
-Exemptions determine what property you get to keep when you file bankruptcy. Understanding them is critical -- they can mean the difference between keeping and losing your home, car, and savings.
+Exemptions determine what property you get to keep when you file bankruptcy. Understanding them is critical - they can mean the difference between keeping and losing your home, car, and savings.
 
 What Are Exemptions?
 
 Bankruptcy exemptions are laws that protect certain property from being taken to pay your creditors. In Chapter 7, non-exempt property can be sold by the trustee. In Chapter 13, the value of non-exempt property affects how much you must pay through your plan.
 
-Indiana requires you to use state exemptions -- you cannot choose the federal exemption system.
+Indiana requires you to use state exemptions - you cannot choose the federal exemption system.
 
-Indiana Exemptions -- Full List
+Indiana Exemptions - Full List
 
-Homestead -- $22,750
+Homestead - $22,750
 
 Protects up to $22,750 of equity in your primary residence. Equity is your home's current market value minus what you owe on the mortgage.
 
 Ind. Code 34-55-10-2(c)(1)
 
-Motor Vehicle -- $10,250
+Motor Vehicle - $10,250
 
 Protects up to $10,250 of equity in one motor vehicle. If you owe more than the car is worth (you are "underwater"), there is no equity to protect and the exemption is not needed.
 
@@ -729,335 +592,13 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## How Much Does Bankruptcy Cost in Indianapolis? -- Filing Fees, Attorney Fees
-Source: https://indianapolisbankruptcy.org/cost.html
-
-Indianapolis Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostFAQOBP
-
-How Much Does Bankruptcy Cost in Indianapolis?
-
-Bankruptcy has real costs, but they are often far less than the debt you are trying to eliminate. Here is a transparent breakdown of every cost you should expect.
-
-$338
-
-Chapter 7 Filing Fee
-
-$313
-
-Chapter 13 Filing Fee
-
-$25-50
-
-Credit Counseling (2 courses)
-
-$800-$4,000
-
-Typical Attorney Fees
-
-Chapter 7 Cost Breakdown
-
-Cost ItemAmountNotes
-
-Court filing fee$338Can pay in installments; fee waiver available
-
-Attorney fees$800 - $1,800Typical Indianapolis range; usually paid upfront
-
-Pre-filing credit counseling$15 - $25Required within 180 days before filing
-
-Post-filing debtor education$10 - $25Required before discharge
-
-Total estimate$1,200 - $2,200
-
-Fee Waiver (Chapter 7 Only)
-
-If your household income is below 150% of the federal poverty guidelines, you can apply to have the $338 filing fee waived entirely. You file the fee waiver application (Official Form 103B) with your petition.
-
-Chapter 13 Cost Breakdown
-
-Cost ItemAmountNotes
-
-Court filing fee$313Can be paid through your plan
-
-Attorney fees$2,500 - $4,000Typical Indianapolis range; mostly paid through plan
-
-Pre-filing credit counseling$15 - $25Required within 180 days before filing
-
-Post-filing debtor education$10 - $25Required before discharge
-
-Total estimate$2,900 - $4,400Most paid through plan, not upfront
-
-The Chapter 13 Payment Advantage
-
-A major advantage of Chapter 13 is that attorney fees and the filing fee can be included in your repayment plan. You typically need only a small upfront payment, with the rest paid through monthly plan payments over 3-5 years.
-
-Ways to Reduce Costs
-
-Free and Low-Cost Options
-
-Indiana Legal Services -- provides free bankruptcy representation for qualifying low-income individuals
-
-Fee waiver -- eliminates the $338 Chapter 7 filing fee for income below 150% of poverty
-
-Installment payments -- pay the filing fee in up to 4 installments over 120 days
-
-Pro se filing -- filing without an attorney is possible but not recommended (only 2.3% of S.D. Ind. filers do this)
-
-Reduced-fee credit counseling -- many approved agencies offer reduced fees for low-income filers
-
-Frequently Asked Questions
-
-How much does Chapter 7 cost in Indianapolis?
-
-The filing fee is $338. Attorney fees typically range from $800 - $1,800. Credit counseling costs about $25-50 total. Total: typically $1,200 - $2,200. National cost comparison.
-
-How much does Chapter 13 cost in Indianapolis?
-
-The filing fee is $313 and attorney fees typically range from $2,500 - $4,000. Most costs can be paid through your repayment plan.
-
-Can I file bankruptcy for free?
-
-The filing fee can be waived in Chapter 7 if your income is below 150% of the federal poverty guidelines. Indiana Legal Services may provide free representation.
-
-Do I have to pay an attorney upfront?
-
-For Chapter 7, most attorneys require full payment before filing. For Chapter 13, fees are typically included in your repayment plan.
-
-Open Bankruptcy Project Network
-
-OBP Home
-1328(f) Screener
-Ch. 7 vs 13
-Automatic Stay
-341 Meeting
-Means Test
-Cost Guide
-Dismissed?
-File Again?
-How to File
-
-Related Indianapolis Bankruptcy Resources
-
-Indianapolis Bankruptcy Guide
-
-Chapter 7 in Indianapolis
-
-Chapter 13 in Indianapolis
-
-Indianapolis Exemptions
-
-Bankruptcy Cost in Indianapolis
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-An Open Bankruptcy Project resource
-
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-© 2026 Open Bankruptcy Project. GitHub
-
-You May Also Find Helpful
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
----
-
-## What to Expect When Filing Bankruptcy -- Timeline, 341 Meeting, Discharge -- Indianapolis
-Source: https://indianapolisbankruptcy.org/what-to-expect.html
-
-Indianapolis Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostFAQOBP
-
-What to Expect When Filing Bankruptcy
-
-The bankruptcy process can feel overwhelming, but it follows a clear, predictable path. Here is exactly what happens from start to finish.
-
-Chapter 7 Timeline
-
-1-4 weeks before filing
-
-Preparation
-
-Complete a credit counseling course ($15-25). Gather documents: tax returns, pay stubs, bank statements, vehicle titles, mortgage statements, and a list of all debts and assets.
-
-Day 1
-
-Filing Day
-
-Your petition is filed with the Southern District of Indiana at 46 E Ohio St, Indianapolis, IN 46204. The automatic stay takes effect immediately. All collection calls, lawsuits, garnishments, foreclosures, and repossessions must stop.
-
-Day 21-40
-
-341 Meeting of Creditors
-
-You attend a brief meeting of creditors. The trustee verifies your identity, asks questions about your finances. Bring photo ID and Social Security proof. Most meetings last 5-10 minutes.
-
-Day 21-60
-
-Debtor Education Course
-
-Complete a second financial education course ($10-25). This must be done before the court will grant your discharge.
-
-Day 60-90 (after 341)
-
-Discharge
-
-The court enters your discharge order. Eligible debts are eliminated. You receive a discharge notice in the mail.
-
-Shortly after discharge
-
-Case Closed
-
-The trustee files a final report and the case is closed. Total time from filing: typically 3-4 months.
-
-Chapter 13 Timeline
-
-Before filing
-
-Preparation
-
-Complete credit counseling. Work with your attorney to develop a feasible repayment plan.
-
-Day 1
-
-Filing Day
-
-Petition and proposed plan filed. Automatic stay takes effect. Foreclosures and repossessions stop immediately.
-
-Day 30
-
-First Plan Payment
-
-Your first monthly payment to the Chapter 13 trustee is due 30 days after filing, even if your plan has not been confirmed yet.
-
-Day 21-40
-
-341 Meeting of Creditors
-
-The trustee reviews your proposed repayment plan and may request modifications.
-
-Day 45-120
-
-Confirmation Hearing
-
-The court decides whether to approve your plan. If approved, you continue monthly payments.
-
-Years 1-5
-
-Plan Payments
-
-Make monthly payments to the trustee for 3-5 years. Report income changes. File tax returns on time.
-
-After plan completion
-
-Discharge
-
-Complete debtor education. The court enters a section 1328 discharge.
-
-Important: In the Southern District of Indiana, 42.7% of Chapter 13 cases are dismissed before plan completion. A dismissed case means no discharge. Strong legal representation is critical.
-
-The Automatic Stay -- Your Immediate Protection
-
-The automatic stay is one of the most powerful protections in bankruptcy law. The moment your petition is filed, creditors must immediately stop:
-
-Phone calls, letters, and emails demanding payment
-
-Lawsuits and court proceedings against you
-
-Wage garnishments
-
-Bank account levies
-
-Foreclosure proceedings
-
-Vehicle repossession
-
-Utility disconnections (for 20 days)
-
-Creditors who violate the automatic stay can be held in contempt and ordered to pay damages.
-
-Exception: If you have had a prior case dismissed within the past year, the automatic stay may be limited to 30 days or may not apply at all. Check your eligibility before filing.
-
-Frequently Asked Questions
-
-What happens at the 341 meeting of creditors?
-
-The 341 meeting is a brief hearing where the trustee asks questions under oath. Bring photo ID and Social Security proof. Most meetings last 5-10 minutes.
-
-What is the automatic stay?
-
-The automatic stay takes effect immediately upon filing. It stops collection calls, lawsuits, garnishments, foreclosures, and repossessions.
-
-How long until I get my discharge?
-
-In Chapter 7, about 3-4 months. In Chapter 13, after completing your 3-5 year plan.
-
-Will bankruptcy affect my credit score?
-
-Chapter 7 stays on your credit report for 10 years; Chapter 13 for 7 years. Many filers see scores start recovering within 1-2 years. Learn about rebuilding credit.
-
-Check Your Eligibility
-
-Use the free 1328(f) screener to check whether a prior discharge affects your eligibility.
-
-Free Discharge Screener
-
-Open Bankruptcy Project Network
-
-OBP Home
-1328(f) Screener
-Ch. 7 vs 13
-Automatic Stay
-341 Meeting
-Means Test
-Cost Guide
-Dismissed?
-File Again?
-How to File
-
-Related Indianapolis Bankruptcy Resources
-
-Indianapolis Bankruptcy Guide
-
-Chapter 7 in Indianapolis
-
-Chapter 13 in Indianapolis
-
-Indianapolis Exemptions
-
-Bankruptcy Cost in Indianapolis
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-An Open Bankruptcy Project resource
-
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-© 2026 Open Bankruptcy Project. GitHub
-
-You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
----
-
-## Indianapolis Bankruptcy FAQ -- 15 Common Questions Answered
+## Indianapolis Bankruptcy FAQ - 15 Common Questions Answered
 Source: https://indianapolisbankruptcy.org/faq.html
 
 Indianapolis Bankruptcy Guide
 HomeChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Faq
 
 Frequently Asked Questions
 
@@ -1089,7 +630,7 @@ Indiana protects $10,250 in vehicle equity. In Chapter 13, you can keep your car
 
 What happens to my tax refund in bankruptcy?
 
-In Chapter 7, your tax refund may be an asset. In Chapter 13, you may need to turn it over to the trustee. Timing matters -- discuss with your attorney.
+In Chapter 7, your tax refund may be an asset. In Chapter 13, you may need to turn it over to the trustee. Timing matters - discuss with your attorney.
 
 The Process
 
@@ -1184,91 +725,148 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Indianapolis Bankruptcy Statistics -- 91,333 Cases Analyzed
-Source: https://indianapolisbankruptcy.org/statistics.html
+## Indianapolis Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+Source: https://indianapolisbankruptcy.org/
+
+Skip to main content
 
 Indianapolis Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostFAQOBP
+HomeChapter 7Chapter 13ExemptionsCostFAQOBP Rule 9037 PII Scanner
 
-Indianapolis Bankruptcy Statistics
+Indianapolis Bankruptcy - Your Complete Filing Guide for 2026
 
-Data from 91,333 Chapter 13 cases in the Southern District of Indiana, analyzed from the Federal Judicial Center Integrated Database (2008-2024).
+You are not alone. Over 91,333 Indianapolis area residents have filed for bankruptcy since 2008. This free guide will help you understand your options, know what to expect, and make informed decisions.
+
+Read the FAQ
+Check Your Eligibility
 
 91,333
 
-Total Ch. 13 Cases (2008-2024)
+S.D. Ind. Cases (2008-2024)
 
 42.7%
 
-S.D. Ind. Dismissal Rate
+Dismissal Rate
 
 57.3%
 
 Discharge Rate
 
+$338
+
+Chapter 7 Filing Fee
+
+Chapter 7 vs. Chapter 13: Which Is Right for You?
+
+Chapter 7 - Fresh Start
+
+Chapter 7 eliminates most unsecured debts (credit cards, medical bills, personal loans) in about 3-4 months. You must pass a means test based on your income.
+
+Discharge in 3-4 months
+
+Eliminates credit cards, medical debt
+
+Must pass the means test
+
+May lose non-exempt property
+
+Filing fee: $338
+
+Learn more about Chapter 7 →
+
+Chapter 13 - Payment Plan
+
+Chapter 13 lets you keep your property while repaying debts over 3-5 years. Good for saving a home from foreclosure or a car from repossession. No means test required.
+
+3-5 year repayment plan
+
+Keep your home and car
+
+Catch up on missed payments
+
+No means test requirement
+
+Filing fee: $313
+
+Learn more about Chapter 13 →
+
+Not sure which chapter fits? Compare them in detail.
+
+Southern District of Indiana at a Glance
+
+Understanding local court data can help you make more informed decisions about filing bankruptcy in Indianapolis.
+
+S.D. Ind. Dismissal Rate
+
+42.7% dismissed
+
+Out of 91,333 Chapter 13 cases filed between 2008 and 2024, 42.7% were dismissed before plan completion. Only 57.3% achieved a successful discharge.
+
+Courthouse: 46 E Ohio St, Indianapolis, IN 46204
+
+Key Metrics
+
 29.8%
 
-Prior Filer Rate
+Prior filer rate - 29.8% of filers had a previous bankruptcy case. Pro se rate: 2.3%. Estimated 1328(f) violations: 4,248.
 
-4,248
+View full statistics →
 
-Est. 1328(f) Violations
+What to Expect When Filing
 
-2.3%
+The Process at a Glance
 
-Pro Se Rate
+Credit counseling - You must complete a credit counseling course within 180 days before filing. Cost: about $15-25.
 
-What These Numbers Mean for You
+File your petition - Your attorney files the petition, schedules, and statements with the court. The automatic stay takes effect immediately, stopping collections, garnishments, and foreclosures.
 
-If you are considering Chapter 13 bankruptcy in Indianapolis, these statistics should inform your decision:
+341 meeting - About 30 days after filing, you attend a brief meeting of creditors. The trustee asks questions under oath. Most last 5-10 minutes.
 
-42.7% of Chapter 13 cases in S.D. Ind. are dismissed. That means many filers spent months or years making payments and got no debt relief at the end.
+Debtor education course - You must complete a second financial education course before discharge. Cost: about $10-25.
 
-29.8% of filers had a previous bankruptcy case. This "prior filer" rate suggests many people are cycling through the system without achieving lasting relief.
+Discharge - Chapter 7: about 60 days after the 341 meeting. Chapter 13: after completing your 3-5 year plan.
 
-An estimated 4,248 cases may involve potential 1328(f) eligibility issues -- filings where the debtor had a prior discharge within the statutory time bar.
+Detailed timeline and what to expect →
 
-Quality of representation matters enormously. The data shows that representation quality is one of the strongest predictors of plan completion.
+How Much Does Bankruptcy Cost?
 
-District Overview
+The total cost depends on the chapter you file and your specific situation:
 
-MetricS.D. Ind.
+Chapter 7 filing fee: $338 (can request installment payments)
 
-Total Ch. 13 cases (2008-2024)91,333
+Chapter 13 filing fee: $313 (can be paid through your plan)
 
-Dismissal rate42.7%
+Attorney fees: Typically $800 - $1,800 for Chapter 7; $2,500 - $4,000 for Chapter 13 in Indianapolis
 
-Discharge rate57.3%
+Credit counseling: $15-25 per course (two required)
 
-Prior filer rate29.8%
+Fee waivers are available for Chapter 7 filers whose income is below 150% of the federal poverty guidelines.
 
-Pro se rate2.3%
-
-Est. 1328(f) violations4,248
-
-Key Takeaways
-
-The Prior Filer Problem
-
-29.8% of S.D. Ind. filers had a prior bankruptcy case. This cycling through the system suggests the first filing failed to provide lasting relief -- and raises questions about whether filers were properly screened under section 1328(f).
-
-4,248 Potential 1328(f) Violations
-
-An estimated 4,248 cases may involve potential eligibility violations under 11 U.S.C. section 1328(f) -- filings where the debtor had a prior discharge within the statutory time bar and could never have received a new discharge. These cases consume court resources and cost consumers time and money for a legally impossible outcome.
+Full cost breakdown → | National cost guide
 
 Frequently Asked Questions
 
-How many bankruptcy cases have been filed in Indianapolis?
+How much does bankruptcy cost in Indianapolis?
 
-Between 2008 and 2024, the Southern District of Indiana saw 91,333 Chapter 13 filings.
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Indianapolis typically range from $800 - $1,800 for Chapter 7 and $2,500 - $4,000 for Chapter 13. Full cost breakdown.
 
-What is the Chapter 13 success rate in Indianapolis?
+Will I lose my house if I file bankruptcy in Indiana?
 
-The discharge rate is 57.3% in S.D. Ind. (2008-2024 data). The remaining 42.7% of cases were dismissed.
+Indiana's homestead exemption protects up to $22,750 of equity in your home. In Chapter 13, you can keep your home while catching up on missed payments. See all exemptions.
 
-What does the prior filer rate mean?
+Can I keep my car if I file bankruptcy?
 
-29.8% of filers had a previous case. This suggests many are cycling through without lasting relief, and raises questions about 1328(f) eligibility screening.
+Indiana allows a vehicle exemption of $10,250. If your car equity is below that amount, you can keep it in Chapter 7. In Chapter 13, you can keep your car and catch up on payments. Learn about exemptions.
+
+How long does bankruptcy take?
+
+Chapter 7 typically takes 3-4 months from filing to discharge. Chapter 13 requires completing a 3-5 year repayment plan. The 341 meeting of creditors usually happens about 30 days after filing. Full timeline.
+
+Should I file Chapter 7 or Chapter 13?
+
+Chapter 7 eliminates most unsecured debt quickly but requires passing a means test. Chapter 13 allows you to keep property while repaying debts over 3-5 years. Compare chapters.
+
+See all frequently asked questions →
 
 Check Your Eligibility
 
@@ -1289,17 +887,33 @@ Dismissed?
 File Again?
 How to File
 
-Related Indianapolis Bankruptcy Resources
+Your Next Questions
 
-Indianapolis Bankruptcy Guide
+Real users ask these next - we built the answers.
 
-Chapter 7 in Indianapolis
+Chapter 7 vs Chapter 13
 
-Chapter 13 in Indianapolis
+Compare chapters before you choose
 
-Indianapolis Exemptions
+chapter7vs13.org →
 
-Bankruptcy Cost in Indianapolis
+How Much Does It Cost?
+
+Attorney fees and filing costs by chapter
+
+howmuchdoesbankruptcycost.com →
+
+Exemptions by State
+
+Your state exemptions for vehicles, homes, and more
+
+bankruptcyexemptionsbystate.com →
+
+What Is a Bankruptcy Mill?
+
+Avoid high-volume firms with poor outcomes
+
+bankruptcymill.org →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -1311,21 +925,103 @@ This site provides general information, not legal advice. Consult a qualified at
 
 © 2026 Open Bankruptcy Project. GitHub
 
+Privacy Policy
+
+Cited by the Federal Rules Committee (26-BK-3)
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+Need Free Bankruptcy Help?
+
+If you cannot afford a bankruptcy attorney, free help is available. Legal aid organizations, law school clinics, and court self-help programs can assist you at no cost.
+
+Find Free Help in Indiana
+
 You May Also Find Helpful
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
 ---
 
-## Indianapolis Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling
+## Indianapolis Bankruptcy Resources - Courts, Legal Aid, Credit Counseling
 Source: https://indianapolisbankruptcy.org/resources.html
 
 Indianapolis Bankruptcy Guide
 HomeChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Resources
 
 Indianapolis Bankruptcy Resources
 
@@ -1333,7 +1029,7 @@ Courts, legal aid organizations, credit counseling agencies, and free educationa
 
 Bankruptcy Court
 
-Southern District of Indiana -- Bankruptcy Court
+Southern District of Indiana - Bankruptcy Court
 
 Address: 46 E Ohio St, Indianapolis, IN 46204
 
@@ -1353,7 +1049,7 @@ Phone: (317) 631-9410
 
 Website: indianalegalservices.org
 
-Indianapolis Bar Association -- Lawyer Referral Service
+Indianapolis Bar Association - Lawyer Referral Service
 
 Can connect you with attorneys who handle bankruptcy cases, including some who offer reduced fees or payment plans.
 
@@ -1365,7 +1061,7 @@ Credit Counseling and Debtor Education
 
 Two courses are required: a pre-filing credit counseling course and a post-filing debtor education course. You must use agencies approved by the U.S. Trustee Program.
 
-Approved agencies: justice.gov -- approved agencies
+Approved agencies: justice.gov - approved agencies
 
 Cost: $15-25 per course (reduced fees available for low-income filers)
 
@@ -1463,3 +1159,401 @@ You May Also Find Helpful
 Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+---
+
+## Indianapolis Bankruptcy Statistics - 91,333 Cases Analyzed
+Source: https://indianapolisbankruptcy.org/statistics.html
+
+Indianapolis Bankruptcy Guide
+HomeChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Statistics
+
+Indianapolis Bankruptcy Statistics
+
+Data from 91,333 Chapter 13 cases in the Southern District of Indiana, analyzed from the Federal Judicial Center Integrated Database (2008-2024).
+
+91,333
+
+Total Ch. 13 Cases (2008-2024)
+
+42.7%
+
+S.D. Ind. Dismissal Rate
+
+57.3%
+
+Discharge Rate
+
+29.8%
+
+Prior Filer Rate
+
+4,248
+
+Est. 1328(f) Violations
+
+2.3%
+
+Pro Se Rate
+
+What These Numbers Mean for You
+
+If you are considering Chapter 13 bankruptcy in Indianapolis, these statistics should inform your decision:
+
+42.7% of Chapter 13 cases in S.D. Ind. are dismissed. That means many filers spent months or years making payments and got no debt relief at the end.
+
+29.8% of filers had a previous bankruptcy case. This "prior filer" rate suggests many people are cycling through the system without achieving lasting relief.
+
+An estimated 4,248 cases may involve potential 1328(f) eligibility issues - filings where the debtor had a prior discharge within the statutory time bar.
+
+Quality of representation matters enormously. The data shows that representation quality is one of the strongest predictors of plan completion.
+
+District Overview
+
+MetricS.D. Ind.
+
+Total Ch. 13 cases (2008-2024)91,333
+
+Dismissal rate42.7%
+
+Discharge rate57.3%
+
+Prior filer rate29.8%
+
+Pro se rate2.3%
+
+Est. 1328(f) violations4,248
+
+Key Takeaways
+
+The Prior Filer Problem
+
+29.8% of S.D. Ind. filers had a prior bankruptcy case. This cycling through the system suggests the first filing failed to provide lasting relief - and raises questions about whether filers were properly screened under section 1328(f).
+
+4,248 Potential 1328(f) Violations
+
+An estimated 4,248 cases may involve potential eligibility violations under 11 U.S.C. section 1328(f) - filings where the debtor had a prior discharge within the statutory time bar and could never have received a new discharge. These cases consume court resources and cost consumers time and money for a legally impossible outcome.
+
+Frequently Asked Questions
+
+How many bankruptcy cases have been filed in Indianapolis?
+
+Between 2008 and 2024, the Southern District of Indiana saw 91,333 Chapter 13 filings.
+
+What is the Chapter 13 success rate in Indianapolis?
+
+The discharge rate is 57.3% in S.D. Ind. (2008-2024 data). The remaining 42.7% of cases were dismissed.
+
+What does the prior filer rate mean?
+
+29.8% of filers had a previous case. This suggests many are cycling through without lasting relief, and raises questions about 1328(f) eligibility screening.
+
+Check Your Eligibility
+
+Use the free 1328(f) screener to check whether a prior discharge affects your eligibility.
+
+Free Discharge Screener
+
+Open Bankruptcy Project Network
+
+OBP Home
+1328(f) Screener
+Ch. 7 vs 13
+Automatic Stay
+341 Meeting
+Means Test
+Cost Guide
+Dismissed?
+File Again?
+How to File
+
+Related Indianapolis Bankruptcy Resources
+
+Indianapolis Bankruptcy Guide
+
+Chapter 7 in Indianapolis
+
+Chapter 13 in Indianapolis
+
+Indianapolis Exemptions
+
+Bankruptcy Cost in Indianapolis
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+© 2026 Open Bankruptcy Project. GitHub
+
+You May Also Find Helpful
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+---
+
+## What to Expect When Filing Bankruptcy - Timeline, 341 Meeting, Discharge - Indianapolis
+Source: https://indianapolisbankruptcy.org/what-to-expect.html
+
+Indianapolis Bankruptcy Guide
+HomeChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›What To Expect
+
+What to Expect When Filing Bankruptcy
+
+The bankruptcy process can feel overwhelming, but it follows a clear, predictable path. Here is exactly what happens from start to finish.
+
+Chapter 7 Timeline
+
+1-4 weeks before filing
+
+Preparation
+
+Complete a credit counseling course ($15-25). Gather documents: tax returns, pay stubs, bank statements, vehicle titles, mortgage statements, and a list of all debts and assets.
+
+Day 1
+
+Filing Day
+
+Your petition is filed with the Southern District of Indiana at 46 E Ohio St, Indianapolis, IN 46204. The automatic stay takes effect immediately. All collection calls, lawsuits, garnishments, foreclosures, and repossessions must stop.
+
+Day 21-40
+
+341 Meeting of Creditors
+
+You attend a brief meeting of creditors. The trustee verifies your identity, asks questions about your finances. Bring photo ID and Social Security proof. Most meetings last 5-10 minutes.
+
+Day 21-60
+
+Debtor Education Course
+
+Complete a second financial education course ($10-25). This must be done before the court will grant your discharge.
+
+Day 60-90 (after 341)
+
+Discharge
+
+The court enters your discharge order. Eligible debts are eliminated. You receive a discharge notice in the mail.
+
+Shortly after discharge
+
+Case Closed
+
+The trustee files a final report and the case is closed. Total time from filing: typically 3-4 months.
+
+Chapter 13 Timeline
+
+Before filing
+
+Preparation
+
+Complete credit counseling. Work with your attorney to develop a feasible repayment plan.
+
+Day 1
+
+Filing Day
+
+Petition and proposed plan filed. Automatic stay takes effect. Foreclosures and repossessions stop immediately.
+
+Day 30
+
+First Plan Payment
+
+Your first monthly payment to the Chapter 13 trustee is due 30 days after filing, even if your plan has not been confirmed yet.
+
+Day 21-40
+
+341 Meeting of Creditors
+
+The trustee reviews your proposed repayment plan and may request modifications.
+
+Day 45-120
+
+Confirmation Hearing
+
+The court decides whether to approve your plan. If approved, you continue monthly payments.
+
+Years 1-5
+
+Plan Payments
+
+Make monthly payments to the trustee for 3-5 years. Report income changes. File tax returns on time.
+
+After plan completion
+
+Discharge
+
+Complete debtor education. The court enters a section 1328 discharge.
+
+Important: In the Southern District of Indiana, 42.7% of Chapter 13 cases are dismissed before plan completion. A dismissed case means no discharge. Strong legal representation is critical.
+
+The Automatic Stay - Your Immediate Protection
+
+The automatic stay is one of the most powerful protections in bankruptcy law. The moment your petition is filed, creditors must immediately stop:
+
+Phone calls, letters, and emails demanding payment
+
+Lawsuits and court proceedings against you
+
+Wage garnishments
+
+Bank account levies
+
+Foreclosure proceedings
+
+Vehicle repossession
+
+Utility disconnections (for 20 days)
+
+Creditors who violate the automatic stay can be held in contempt and ordered to pay damages.
+
+Exception: If you have had a prior case dismissed within the past year, the automatic stay may be limited to 30 days or may not apply at all. Check your eligibility before filing.
+
+Frequently Asked Questions
+
+What happens at the 341 meeting of creditors?
+
+The 341 meeting is a brief hearing where the trustee asks questions under oath. Bring photo ID and Social Security proof. Most meetings last 5-10 minutes.
+
+What is the automatic stay?
+
+The automatic stay takes effect immediately upon filing. It stops collection calls, lawsuits, garnishments, foreclosures, and repossessions.
+
+How long until I get my discharge?
+
+In Chapter 7, about 3-4 months. In Chapter 13, after completing your 3-5 year plan.
+
+Will bankruptcy affect my credit score?
+
+Chapter 7 stays on your credit report for 10 years; Chapter 13 for 7 years. Many filers see scores start recovering within 1-2 years. Learn about rebuilding credit.
+
+Check Your Eligibility
+
+Use the free 1328(f) screener to check whether a prior discharge affects your eligibility.
+
+Free Discharge Screener
+
+Open Bankruptcy Project Network
+
+OBP Home
+1328(f) Screener
+Ch. 7 vs 13
+Automatic Stay
+341 Meeting
+Means Test
+Cost Guide
+Dismissed?
+File Again?
+How to File
+
+Related Indianapolis Bankruptcy Resources
+
+Indianapolis Bankruptcy Guide
+
+Chapter 7 in Indianapolis
+
+Chapter 13 in Indianapolis
+
+Indianapolis Exemptions
+
+Bankruptcy Cost in Indianapolis
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+© 2026 Open Bankruptcy Project. GitHub
+
+You May Also Find Helpful
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## Privacy Policy - indianapolisbankruptcy.org
+Source: https://indianapolisbankruptcy.org/privacy.html
+
+indianapolisbankruptcy.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
