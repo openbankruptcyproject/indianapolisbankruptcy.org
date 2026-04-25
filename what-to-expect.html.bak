@@ -4,10 +4,10 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>Indianapolis Bankruptcy Statistics - 91,333 Cases Analyzed</title>
-<meta content="Learn about indianapolis bankruptcy statistics - 91,333 cases analyzed | indianapolis bankruptcy guide in our free 2026 guide." name="description"/>
+<title>What to Expect When Filing Bankruptcy - Timeline, 341 Meeting, Discharge - Indianapolis</title>
+<meta content="Step-by-step guide to the bankruptcy process in Indianapolis. Timeline from filing to discharge, what happens at the 341 meeting, automatic stay, and." name="description"/>
 <link href="favicon.svg" rel="icon" type="image/svg+xml"/>
-<link href="https://indianapolisbankruptcy.org/statistics.html" rel="canonical"/>
+<link href="https://indianapolisbankruptcy.org/what-to-expect.html" rel="canonical"/>
 <!-- BTN:GA4:START -->
 <link href="https://www.googletagmanager.com" rel="preconnect"/>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
@@ -18,9 +18,10 @@
   "@context":"https://schema.org",
   "@type":"FAQPage",
   "mainEntity":[
-    {"@type":"Question","name":"How many bankruptcy cases have been filed in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Between 2008 and 2024, the Southern District of Indiana saw 91,333 Chapter 13 filings."}},
-    {"@type":"Question","name":"What is the Chapter 13 success rate in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Based on 2008-2024 data, the Chapter 13 discharge rate in S.D. Ind. is 57.3%. The remaining 42.7% of cases were dismissed."}},
-    {"@type":"Question","name":"What does the prior filer rate mean?","acceptedAnswer":{"@type":"Answer","text":"29.8% of filers in S.D. Ind. had a previous bankruptcy case. This suggests many people are cycling through the system without achieving lasting relief."}}
+    {"@type":"Question","name":"What happens at the 341 meeting of creditors?","acceptedAnswer":{"@type":"Answer","text":"The 341 meeting is a brief hearing where the bankruptcy trustee asks you questions under oath about your financial situation. You need photo ID and proof of Social Security number. Most meetings last only 5-10 minutes. Creditors may attend but rarely do."}},
+    {"@type":"Question","name":"What is the automatic stay?","acceptedAnswer":{"@type":"Answer","text":"The automatic stay takes effect the moment your bankruptcy petition is filed. It immediately stops collection actions including phone calls, lawsuits, wage garnishments, foreclosures, and repossessions."}},
+    {"@type":"Question","name":"How long until I get my discharge?","acceptedAnswer":{"@type":"Answer","text":"In Chapter 7, about 3-4 months after filing. In Chapter 13, after you successfully complete your 3-5 year repayment plan."}},
+    {"@type":"Question","name":"Will bankruptcy affect my credit score?","acceptedAnswer":{"@type":"Answer","text":"Yes. Chapter 7 stays on your credit report for 10 years and Chapter 13 for 7 years. However, many filers see scores start recovering within 1-2 years as the debt-to-income ratio improves."}}
   ]
 }
 </script>
@@ -30,25 +31,25 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Indianapolis Bankruptcy Statistics",
-      "description": "Analysis of 91,333 bankruptcy cases in Indianapolis.",
+      "headline": "What to Expect When Filing Bankruptcy",
+      "description": "Step-by-step guide to the bankruptcy process in Indianapolis.",
       "author": {"@type": "Organization", "name": "Open Bankruptcy Project"},
       "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org"},
       "datePublished": "2026-04-05",
       "dateModified": "2026-04-05",
-      "mainEntityOfPage": "https://indianapolisbankruptcy.org/statistics.html"
+      "mainEntityOfPage": "https://indianapolisbankruptcy.org/what-to-expect.html"
     },
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
         {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indianapolisbankruptcy.org"},
-        {"@type": "ListItem", "position": 2, "name": "Statistics", "item": "https://indianapolisbankruptcy.org/statistics.html"}
+        {"@type": "ListItem", "position": 2, "name": "What To Expect", "item": "https://indianapolisbankruptcy.org/what-to-expect.html"}
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Indianapolis Bankruptcy Statistics",
-      "url": "https://indianapolisbankruptcy.org/statistics.html",
+      "name": "What to Expect When Filing Bankruptcy",
+      "url": "https://indianapolisbankruptcy.org/what-to-expect.html",
       "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".quick-answer", "h1", ".summary", "p:first-of-type"]}
     }
   ]
@@ -118,8 +119,8 @@ td{color:#c9d1d9}
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<link href="https://indianapolisbankruptcy.org/statistics.html" hreflang="en" rel="alternate"/>
-<link href="https://indianapolisbankruptcy.org/statistics-es.html" hreflang="es" rel="alternate"/>
+<link href="https://indianapolisbankruptcy.org/what-to-expect.html" hreflang="en" rel="alternate"/>
+<link href="https://indianapolisbankruptcy.org/what-to-expect-es.html" hreflang="es" rel="alternate"/>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -142,90 +143,120 @@ td{color:#c9d1d9}
 </script>
 <meta content="https://indianapolisbankruptcy.org/og-image.svg" property="og:image"/>
 <meta content="https://indianapolisbankruptcy.org/og-image.svg" name="twitter:image"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <nav><div class="container"><a class="brand" href="/">Indianapolis Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="chapter-7.html">Chapter 7</a><a href="chapter-13.html">Chapter 13</a><a href="exemptions.html">Exemptions</a><a href="cost.html">Cost</a><a href="faq.html">FAQ</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://indianapolisbankruptcy.org">Home</a><span class="separator">›</span><span>Statistics</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://indianapolisbankruptcy.org">Home</a><span class="separator">›</span><span>What To Expect</span></nav>
 <div class="hero"><div class="container">
-<h1>Indianapolis Bankruptcy Statistics</h1>
-<p class="subtitle">Data from 91,333 <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases in the Southern District of Indiana, analyzed from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (2008-2024).</p>
+<h1>What to Expect When Filing Bankruptcy</h1>
+<p class="subtitle">The bankruptcy process can feel overwhelming, but it follows a clear, predictable path. Here is exactly what happens from start to finish.</p>
 </div></div>
-<div class="container">
-<div class="stats-row">
-<div class="stat-card"><div class="number">91,333</div><div class="label">Total Ch. 13 Cases (2008-2024)</div></div>
-<div class="stat-card danger"><div class="number">42.7%</div><div class="label">S.D. Ind. <a href="https://dismissalrate.org/" title="dismissal rate">Dismissal Rate</a></div></div>
-<div class="stat-card"><div class="number">57.3%</div><div class="label"><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> Rate</div></div>
-<div class="stat-card danger"><div class="number">29.8%</div><div class="label">Prior Filer Rate</div></div>
-<div class="stat-card"><div class="number">4,248</div><div class="label">Est. <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> Violations</div></div>
-<div class="stat-card"><div class="number">2.3%</div><div class="label"><a href="https://prosebankruptcy.org/" title="pro se">Pro Se</a> Rate</div></div>
-</div>
-</div>
 <section><div class="container">
-<h2>What These Numbers Mean for You</h2>
+<h2>Chapter 7 Timeline</h2>
+<div class="timeline">
+<div class="timeline-item">
+<div class="time">1-4 weeks before filing</div>
+<h3>Preparation</h3>
+<p>Complete a <a href="https://bankruptcyfreshstart.org" title="Credit Counseling">credit counseling course</a> ($15-25). Gather documents: tax returns, pay stubs, bank statements, vehicle titles, mortgage statements, and a list of all debts and assets.</p>
+</div>
+<div class="timeline-item">
+<div class="time">Day 1</div>
+<h3>Filing Day</h3>
+<p>Your petition is filed with the Southern District of Indiana at 46 E Ohio St, Indianapolis, IN 46204. The <a href="https://automaticstay.org" title="Automatic Stay">automatic stay</a> takes effect immediately. All collection calls, lawsuits, garnishments, foreclosures, and repossessions must stop.</p>
+</div>
+<div class="timeline-item">
+<div class="time">Day 21-40</div>
+<h3>341 Meeting of Creditors</h3>
+<p>You attend a brief <a href="https://341meeting.org" title="341 Meeting Guide">meeting of creditors</a>. The trustee verifies your identity, asks questions about your finances. Bring photo ID and Social Security proof. Most meetings last 5-10 minutes.</p>
+</div>
+<div class="timeline-item">
+<div class="time">Day 21-60</div>
+<h3>Debtor Education Course</h3>
+<p>Complete a second financial education course ($10-25). This must be done before the court will grant your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
+</div>
+<div class="timeline-item">
+<div class="time">Day 60-90 (after 341)</div>
+<h3>Discharge</h3>
+<p>The court enters your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> order. Eligible debts are eliminated. You receive a discharge notice in the mail.</p>
+</div>
+<div class="timeline-item" style="margin-bottom:0">
+<div class="time">Shortly after discharge</div>
+<h3>Case Closed</h3>
+<p>The trustee files a final report and the case is closed. Total time from filing: typically 3-4 months.</p>
+</div>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Chapter 13 Timeline</h2>
+<div class="timeline">
+<div class="timeline-item">
+<div class="time">Before filing</div>
+<h3>Preparation</h3>
+<p>Complete <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a>. Work with your attorney to develop a feasible <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a>.</p>
+</div>
+<div class="timeline-item">
+<div class="time">Day 1</div>
+<h3>Filing Day</h3>
+<p>Petition and proposed plan filed. <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">Automatic stay</a> takes effect. Foreclosures and repossessions stop immediately.</p>
+</div>
+<div class="timeline-item">
+<div class="time">Day 30</div>
+<h3>First Plan Payment</h3>
+<p>Your first monthly payment to the <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> trustee is due 30 days after filing, even if your plan has not been confirmed yet.</p>
+</div>
+<div class="timeline-item">
+<div class="time">Day 21-40</div>
+<h3>341 Meeting of Creditors</h3>
+<p>The trustee reviews your proposed <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a> and may request modifications.</p>
+</div>
+<div class="timeline-item">
+<div class="time">Day 45-120</div>
+<h3>Confirmation Hearing</h3>
+<p>The court decides whether to approve your plan. If approved, you continue monthly payments.</p>
+</div>
+<div class="timeline-item">
+<div class="time">Years 1-5</div>
+<h3>Plan Payments</h3>
+<p>Make monthly payments to the trustee for 3-5 years. Report income changes. File tax returns on time.</p>
+</div>
+<div class="timeline-item" style="margin-bottom:0">
+<div class="time">After plan completion</div>
+<h3>Discharge</h3>
+<p>Complete debtor education. The court enters a <a href="https://section1328.org" title="Section 1328 Discharge">section 1328 discharge</a>.</p>
+</div>
+</div>
+<div style="background:#1c1f26;border:1px solid #d29922;border-radius:8px;padding:16px 20px;margin:20px 0;color:#d29922;font-size:14px">
+<strong>Important:</strong> In the Southern District of Indiana, 42.7% of <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases are dismissed before plan completion. A <a href="https://bankruptcydismissed.com" style="color:#58a6ff" title="Bankruptcy Dismissed">dismissed case</a> means no discharge. Strong legal representation is critical.
+</div>
+</div></section>
+<section><div class="container">
+<h2>The Automatic Stay - Your Immediate Protection</h2>
 <div class="card">
-<p>If you are considering <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy in Indianapolis, these statistics should inform your decision:</p>
+<p>The <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy">automatic stay</a> is one of the most powerful protections in bankruptcy law. The moment your petition is filed, creditors must immediately stop:</p>
 <ul>
-<li><strong>42.7% of Chapter 13 cases in S.D. Ind. are dismissed.</strong> That means many filers spent months or years making payments and got no debt relief at the end.</li>
-<li><strong>29.8% of filers had a previous bankruptcy case.</strong> This "prior filer" rate suggests many people are cycling through the system without achieving lasting relief.</li>
-<li><strong>An estimated 4,248 cases may involve potential <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> eligibility issues</strong> - filings where the debtor had a prior <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> within the statutory time bar.</li>
-<li><strong>Quality of representation matters enormously.</strong> The data shows that representation quality is one of the strongest predictors of plan completion.</li>
+<li>Phone calls, letters, and emails demanding payment</li>
+<li>Lawsuits and court proceedings against you</li>
+<li>Wage garnishments</li>
+<li>Bank account levies</li>
+<li>Foreclosure proceedings</li>
+<li>Vehicle repossession</li>
+<li>Utility disconnections (for 20 days)</li>
 </ul>
-</div>
-</div></section>
-<section><div class="container">
-<h2>District Overview</h2>
-<table>
-<tr><th>Metric</th><th>S.D. Ind.</th></tr>
-<tr><td>Total Ch. 13 cases (2008-2024)</td><td>91,333</td></tr>
-<tr><td><strong><a href="https://dismissedbankruptcy.org/" title="dismissal">Dismissal</a> rate</strong></td><td style="color:#f85149;font-weight:700">42.7%</td></tr>
-<tr><td>Discharge rate</td><td>57.3%</td></tr>
-<tr><td>Prior filer rate</td><td>29.8%</td></tr>
-<tr><td><a href="https://prosebankruptcy.org/" title="pro se">Pro se</a> rate</td><td>2.3%</td></tr>
-<tr><td>Est. 1328(f) violations</td><td>4,248</td></tr>
-</table>
-</div></section>
-<section><div class="container">
-<h2>Key Takeaways</h2>
-<div class="card">
-<h3>The Prior Filer Problem</h3>
-<p>29.8% of S.D. Ind. filers had a prior bankruptcy case. This cycling through the system suggests the first filing failed to provide lasting relief - and raises questions about whether filers were properly screened under <a href="https://1328f.com" title="1328(f) Screener">section 1328(f)</a>.</p>
-</div>
-<div class="card">
-<h3>4,248 Potential 1328(f) Violations</h3>
-<p>An estimated 4,248 cases may involve potential eligibility violations under <a href="https://section1328.org" title="Section 1328">11 U.S.C. section 1328(f)</a> - filings where the debtor had a prior discharge within the statutory time bar and could never have received a new discharge. These cases consume court resources and cost consumers time and money for a legally impossible outcome.</p>
+<p>Creditors who violate the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> can be held in contempt and ordered to pay damages.</p>
+<p><strong>Exception:</strong> If you have had a prior <a href="https://dismissedbankruptcy.org/" title="dismissal">case dismissed</a> within the past year, the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> may be limited to 30 days or may not apply at all. <a href="https://1328f.com" title="Discharge Eligibility Screener">Check your eligibility</a> before filing.</p>
 </div>
 </div></section>
 <section><div class="container">
 <h2>Frequently Asked Questions</h2>
-<details class="faq-item"><summary>How many bankruptcy cases have been filed in Indianapolis?</summary><div class="answer"><p>Between 2008 and 2024, the Southern District of Indiana saw 91,333 Chapter 13 filings.</p></div></details>
-<details class="faq-item"><summary>What is the Chapter 13 success rate in Indianapolis?</summary><div class="answer"><p>The discharge rate is 57.3% in S.D. Ind. (2008-2024 data). The remaining 42.7% of cases were <a href="https://bankruptcydismissed.com" title="Dismissed">dismissed</a>.</p></div></details>
-<details class="faq-item"><summary>What does the prior filer rate mean?</summary><div class="answer"><p>29.8% of filers had a previous case. This suggests many are cycling through without lasting relief, and raises questions about <a href="https://1328f.com" title="1328(f) Screener">1328(f) eligibility</a> screening.</p></div></details>
+<details class="faq-item"><summary>What happens at the 341 <a href="https://341meeting.org/" title="341 meeting">meeting of creditors</a>?</summary><div class="answer"><p>The <a href="https://341meeting.org" title="341 Meeting Guide">341 meeting</a> is a brief hearing where the trustee asks questions under oath. Bring photo ID and Social Security proof. Most meetings last 5-10 minutes.</p></div></details>
+<details class="faq-item"><summary>What is the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a>?</summary><div class="answer"><p>The <a href="https://automaticstay.org" title="Automatic Stay">automatic stay</a> takes effect immediately upon filing. It stops collection calls, lawsuits, garnishments, foreclosures, and repossessions.</p></div></details>
+<details class="faq-item"><summary>How long until I get my discharge?</summary><div class="answer"><p>In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, about 3-4 months. In Chapter 13, after completing your 3-5 year plan.</p></div></details>
+<details class="faq-item"><summary>Will bankruptcy affect my credit score?</summary><div class="answer"><p><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> stays on your credit report for 10 years; Chapter 13 for 7 years. Many filers see scores start recovering within 1-2 years. <a href="https://bankruptcyfreshstart.org" title="Rebuilding After Bankruptcy">Learn about rebuilding credit</a>.</p></div></details>
 </div></section>
 <div class="container">
 <div style="text-align:center;padding:40px 0">
 <h2>Check Your Eligibility</h2>
-<p>Use the free 1328(f) screener to check whether a prior discharge affects your eligibility.</p>
+<p>Use the free <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> screener to check whether a prior discharge affects your eligibility.</p>
 <a class="cta" href="https://1328f.com">Free Discharge Screener</a>
 </div>
 <div class="network">
@@ -260,7 +291,7 @@ td{color:#c9d1d9}
 <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
 <div class="container">
 <p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
-<p>Data sourced from the Federal Judicial Center Integrated Database (2008--2024).</p>
+<p>Data sourced from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (2008--2024).</p>
 <p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
 <p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
 </div></footer>
@@ -271,8 +302,8 @@ td{color:#c9d1d9}
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=indianapolisbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=indianapolisbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=indianapolisbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=indianapolisbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
 </ul>
 </div>
 <script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>

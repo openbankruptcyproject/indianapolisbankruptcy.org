@@ -4,10 +4,10 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>Indianapolis Bankruptcy Statistics - 91,333 Cases Analyzed</title>
-<meta content="Learn about indianapolis bankruptcy statistics - 91,333 cases analyzed | indianapolis bankruptcy guide in our free 2026 guide." name="description"/>
+<title>Indianapolis Bankruptcy Resources - Courts, Legal Aid, Credit Counseling</title>
+<meta content="Indianapolis bankruptcy resources including court websites, legal aid organizations, approved credit counseling agencies, and free educational tools." name="description"/>
 <link href="favicon.svg" rel="icon" type="image/svg+xml"/>
-<link href="https://indianapolisbankruptcy.org/statistics.html" rel="canonical"/>
+<link href="https://indianapolisbankruptcy.org/resources.html" rel="canonical"/>
 <!-- BTN:GA4:START -->
 <link href="https://www.googletagmanager.com" rel="preconnect"/>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
@@ -18,9 +18,9 @@
   "@context":"https://schema.org",
   "@type":"FAQPage",
   "mainEntity":[
-    {"@type":"Question","name":"How many bankruptcy cases have been filed in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Between 2008 and 2024, the Southern District of Indiana saw 91,333 Chapter 13 filings."}},
-    {"@type":"Question","name":"What is the Chapter 13 success rate in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Based on 2008-2024 data, the Chapter 13 discharge rate in S.D. Ind. is 57.3%. The remaining 42.7% of cases were dismissed."}},
-    {"@type":"Question","name":"What does the prior filer rate mean?","acceptedAnswer":{"@type":"Answer","text":"29.8% of filers in S.D. Ind. had a previous bankruptcy case. This suggests many people are cycling through the system without achieving lasting relief."}}
+    {"@type":"Question","name":"Where is the Indianapolis bankruptcy court?","acceptedAnswer":{"@type":"Answer","text":"The Southern District of Indiana bankruptcy court is at 46 E Ohio St, Indianapolis, IN 46204. Phone: (317) 229-3800. Website: www.insb.uscourts.gov."}},
+    {"@type":"Question","name":"Is there free legal help for bankruptcy in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Yes. Indiana Legal Services ((317) 631-9410) provides free bankruptcy representation for qualifying low-income individuals."}},
+    {"@type":"Question","name":"Where can I take the required credit counseling course?","acceptedAnswer":{"@type":"Answer","text":"The U.S. Trustee Program maintains a list of approved agencies at justice.gov/ust. Most agencies offer courses online or by phone for $15-25."}}
   ]
 }
 </script>
@@ -30,25 +30,25 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Indianapolis Bankruptcy Statistics",
-      "description": "Analysis of 91,333 bankruptcy cases in Indianapolis.",
+      "headline": "Indianapolis Bankruptcy Resources",
+      "description": "Directory of bankruptcy resources for Indianapolis residents.",
       "author": {"@type": "Organization", "name": "Open Bankruptcy Project"},
       "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org"},
       "datePublished": "2026-04-05",
       "dateModified": "2026-04-05",
-      "mainEntityOfPage": "https://indianapolisbankruptcy.org/statistics.html"
+      "mainEntityOfPage": "https://indianapolisbankruptcy.org/resources.html"
     },
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
         {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://indianapolisbankruptcy.org"},
-        {"@type": "ListItem", "position": 2, "name": "Statistics", "item": "https://indianapolisbankruptcy.org/statistics.html"}
+        {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://indianapolisbankruptcy.org/resources.html"}
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Indianapolis Bankruptcy Statistics",
-      "url": "https://indianapolisbankruptcy.org/statistics.html",
+      "name": "Indianapolis Bankruptcy Resources",
+      "url": "https://indianapolisbankruptcy.org/resources.html",
       "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".quick-answer", "h1", ".summary", "p:first-of-type"]}
     }
   ]
@@ -118,8 +118,8 @@ td{color:#c9d1d9}
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<link href="https://indianapolisbankruptcy.org/statistics.html" hreflang="en" rel="alternate"/>
-<link href="https://indianapolisbankruptcy.org/statistics-es.html" hreflang="es" rel="alternate"/>
+<link href="https://indianapolisbankruptcy.org/resources.html" hreflang="en" rel="alternate"/>
+<link href="https://indianapolisbankruptcy.org/resources-es.html" hreflang="es" rel="alternate"/>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -142,92 +142,93 @@ td{color:#c9d1d9}
 </script>
 <meta content="https://indianapolisbankruptcy.org/og-image.svg" property="og:image"/>
 <meta content="https://indianapolisbankruptcy.org/og-image.svg" name="twitter:image"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <nav><div class="container"><a class="brand" href="/">Indianapolis Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="chapter-7.html">Chapter 7</a><a href="chapter-13.html">Chapter 13</a><a href="exemptions.html">Exemptions</a><a href="cost.html">Cost</a><a href="faq.html">FAQ</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://indianapolisbankruptcy.org">Home</a><span class="separator">›</span><span>Statistics</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://indianapolisbankruptcy.org">Home</a><span class="separator">›</span><span>Resources</span></nav>
 <div class="hero"><div class="container">
-<h1>Indianapolis Bankruptcy Statistics</h1>
-<p class="subtitle">Data from 91,333 <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases in the Southern District of Indiana, analyzed from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (2008-2024).</p>
+<h1>Indianapolis Bankruptcy Resources</h1>
+<p class="subtitle">Courts, legal aid organizations, <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> agencies, and free educational tools to help you navigate the bankruptcy process.</p>
 </div></div>
-<div class="container">
-<div class="stats-row">
-<div class="stat-card"><div class="number">91,333</div><div class="label">Total Ch. 13 Cases (2008-2024)</div></div>
-<div class="stat-card danger"><div class="number">42.7%</div><div class="label">S.D. Ind. <a href="https://dismissalrate.org/" title="dismissal rate">Dismissal Rate</a></div></div>
-<div class="stat-card"><div class="number">57.3%</div><div class="label"><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> Rate</div></div>
-<div class="stat-card danger"><div class="number">29.8%</div><div class="label">Prior Filer Rate</div></div>
-<div class="stat-card"><div class="number">4,248</div><div class="label">Est. <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> Violations</div></div>
-<div class="stat-card"><div class="number">2.3%</div><div class="label"><a href="https://prosebankruptcy.org/" title="pro se">Pro Se</a> Rate</div></div>
-</div>
-</div>
 <section><div class="container">
-<h2>What These Numbers Mean for You</h2>
+<h2>Bankruptcy Court</h2>
 <div class="card">
-<p>If you are considering <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy in Indianapolis, these statistics should inform your decision:</p>
+<h3>Southern District of Indiana - Bankruptcy Court</h3>
 <ul>
-<li><strong>42.7% of Chapter 13 cases in S.D. Ind. are dismissed.</strong> That means many filers spent months or years making payments and got no debt relief at the end.</li>
-<li><strong>29.8% of filers had a previous bankruptcy case.</strong> This "prior filer" rate suggests many people are cycling through the system without achieving lasting relief.</li>
-<li><strong>An estimated 4,248 cases may involve potential <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> eligibility issues</strong> - filings where the debtor had a prior <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> within the statutory time bar.</li>
-<li><strong>Quality of representation matters enormously.</strong> The data shows that representation quality is one of the strongest predictors of plan completion.</li>
+<li><strong>Address:</strong> 46 E Ohio St, Indianapolis, IN 46204</li>
+<li><strong>Phone:</strong> (317) 229-3800</li>
+<li><strong>Website:</strong> <a href="https://www.insb.uscourts.gov" rel="noopener" target="_blank">www.insb.uscourts.gov</a></li>
+<li><strong><a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a>:</strong> <a href="https://ecf.insb.uscourts.gov" rel="noopener" target="_blank">ecf.insb.uscourts.gov</a></li>
 </ul>
 </div>
 </div></section>
 <section><div class="container">
-<h2>District Overview</h2>
-<table>
-<tr><th>Metric</th><th>S.D. Ind.</th></tr>
-<tr><td>Total Ch. 13 cases (2008-2024)</td><td>91,333</td></tr>
-<tr><td><strong><a href="https://dismissedbankruptcy.org/" title="dismissal">Dismissal</a> rate</strong></td><td style="color:#f85149;font-weight:700">42.7%</td></tr>
-<tr><td>Discharge rate</td><td>57.3%</td></tr>
-<tr><td>Prior filer rate</td><td>29.8%</td></tr>
-<tr><td><a href="https://prosebankruptcy.org/" title="pro se">Pro se</a> rate</td><td>2.3%</td></tr>
-<tr><td>Est. 1328(f) violations</td><td>4,248</td></tr>
-</table>
-</div></section>
-<section><div class="container">
-<h2>Key Takeaways</h2>
+<h2>Legal Aid Organizations</h2>
 <div class="card">
-<h3>The Prior Filer Problem</h3>
-<p>29.8% of S.D. Ind. filers had a prior bankruptcy case. This cycling through the system suggests the first filing failed to provide lasting relief - and raises questions about whether filers were properly screened under <a href="https://1328f.com" title="1328(f) Screener">section 1328(f)</a>.</p>
+<h3>Indiana Legal Services</h3>
+<p>Provides free civil legal services to low-income individuals, including bankruptcy representation.</p>
+<ul>
+<li><strong>Phone:</strong> (317) 631-9410</li>
+<li><strong>Website:</strong> <a href="https://www.indianalegalservices.org" rel="noopener" target="_blank">indianalegalservices.org</a></li>
+</ul>
 </div>
 <div class="card">
-<h3>4,248 Potential 1328(f) Violations</h3>
-<p>An estimated 4,248 cases may involve potential eligibility violations under <a href="https://section1328.org" title="Section 1328">11 U.S.C. section 1328(f)</a> - filings where the debtor had a prior discharge within the statutory time bar and could never have received a new discharge. These cases consume court resources and cost consumers time and money for a legally impossible outcome.</p>
+<h3>Indianapolis Bar Association - Lawyer Referral Service</h3>
+<p>Can connect you with attorneys who handle bankruptcy cases, including some who offer reduced fees or payment plans.</p>
+<ul>
+<li><strong>Phone:</strong> (317) 269-2222</li>
+<li><strong>Website:</strong> <a href="https://www.indybar.org" rel="noopener" target="_blank">indybar.org</a></li>
+</ul>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Credit Counseling and Debtor Education</h2>
+<div class="card">
+<p>Two courses are required: a pre-filing <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> course and a post-filing debtor education course. You must use agencies approved by the <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">U.S. Trustee Program</a>.</p>
+<ul>
+<li><strong>Approved agencies:</strong> <a href="https://www.justice.gov/ust/list-credit-counseling-agencies-approved-pursuant-11-usc-111" rel="noopener" target="_blank">justice.gov - approved agencies</a></li>
+<li><strong>Cost:</strong> $15-25 per course (reduced fees available for low-income filers)</li>
+<li><strong>Format:</strong> Online, phone, or in-person</li>
+<li><strong>Time:</strong> About 60-90 minutes per course</li>
+</ul>
+</div>
+</div></section>
+<section><div class="container">
+<h2>U.S. Trustee Program</h2>
+<div class="card">
+<p>The U.S. Trustee Program oversees the administration of bankruptcy cases.</p>
+<ul>
+<li><strong>Region 10:</strong> (317) 226-6101</li>
+<li><strong>Website:</strong> <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">justice.gov/ust</a></li>
+</ul>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Free Educational Tools</h2>
+<div class="card">
+<h3>Open Bankruptcy Project Network</h3>
+<ul>
+<li><a href="https://1328f.com">1328(f) Discharge Eligibility Screener</a></li>
+<li><a href="https://chapter7vs13.org">Chapter 7 vs. Chapter 13 Comparison</a></li>
+<li><a href="https://automaticstay.org">Automatic Stay Guide</a></li>
+<li><a href="https://341meeting.org">341 Meeting Guide</a></li>
+<li><a href="https://bankruptcymeanstest.org">Means Test Explained</a></li>
+<li><a href="https://howmuchdoesbankruptcycost.com">National Cost Guide</a></li>
+<li><a href="https://howtofilebankruptcy.org">How to File Bankruptcy</a></li>
+<li><a href="https://bankruptcydismissed.com">Case Dismissed?</a></li>
+<li><a href="https://filebankruptcyagain.com">File Again?</a></li>
+<li><a href="https://523a.org">Non-Dischargeable Debts</a></li>
+<li><a href="https://dismissalrate.org">Dismissal Rate Data</a></li>
+</ul>
 </div>
 </div></section>
 <section><div class="container">
 <h2>Frequently Asked Questions</h2>
-<details class="faq-item"><summary>How many bankruptcy cases have been filed in Indianapolis?</summary><div class="answer"><p>Between 2008 and 2024, the Southern District of Indiana saw 91,333 Chapter 13 filings.</p></div></details>
-<details class="faq-item"><summary>What is the Chapter 13 success rate in Indianapolis?</summary><div class="answer"><p>The discharge rate is 57.3% in S.D. Ind. (2008-2024 data). The remaining 42.7% of cases were <a href="https://bankruptcydismissed.com" title="Dismissed">dismissed</a>.</p></div></details>
-<details class="faq-item"><summary>What does the prior filer rate mean?</summary><div class="answer"><p>29.8% of filers had a previous case. This suggests many are cycling through without lasting relief, and raises questions about <a href="https://1328f.com" title="1328(f) Screener">1328(f) eligibility</a> screening.</p></div></details>
+<details class="faq-item"><summary>Where is the Indianapolis bankruptcy court?</summary><div class="answer"><p>Southern District of Indiana: 46 E Ohio St, Indianapolis, IN 46204. Phone: (317) 229-3800.</p></div></details>
+<details class="faq-item"><summary>Is there free legal help for bankruptcy in Indianapolis?</summary><div class="answer"><p>Yes. Indiana Legal Services ((317) 631-9410) provides free bankruptcy representation for qualifying low-income individuals.</p></div></details>
+<details class="faq-item"><summary>Where can I take the required credit counseling course?</summary><div class="answer"><p>The U.S. Trustee Program maintains a list at <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">justice.gov/ust</a>. Most offer courses online for $15-25.</p></div></details>
 </div></section>
 <div class="container">
-<div style="text-align:center;padding:40px 0">
-<h2>Check Your Eligibility</h2>
-<p>Use the free 1328(f) screener to check whether a prior discharge affects your eligibility.</p>
-<a class="cta" href="https://1328f.com">Free Discharge Screener</a>
-</div>
 <div class="network">
 <h3>Open Bankruptcy Project Network</h3>
 <div class="network-links">
@@ -260,7 +261,7 @@ td{color:#c9d1d9}
 <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
 <div class="container">
 <p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
-<p>Data sourced from the Federal Judicial Center Integrated Database (2008--2024).</p>
+<p>Data sourced from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (2008--2024).</p>
 <p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
 <p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
 </div></footer>
@@ -272,7 +273,7 @@ td{color:#c9d1d9}
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=indianapolisbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=indianapolisbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=indianapolisbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=indianapolisbankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 </ul>
 </div>
 <script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
